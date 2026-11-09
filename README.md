@@ -1,15 +1,12 @@
 # Modelado Teórico-Computacional y Formal de *Captain Tsubasa: Dream Team*
 
-[![DOI](https://shields.io)](https://doi.org)
-[![License](https://shields.io)](https://creativecommons.org)
-[![Python](https://shields.io)](https://python.org)
-
+**DOI:** [10.5281/zenodo.24092046](https://doi.org) · **Licencia:** CC BY 4.0 · **Lenguaje:** Python 3.8+
 
 Este repositorio contiene el código de simulación numérica y los modelos matemáticos complementarios del artículo:
 
 > **Modelado Teórico-Computacional y Formal del Juego de Estrategia Digital: Análisis de Complejidad, Lógica Booleana y Teoría de Juegos en Captain Tsubasa: Dream Team**  
 > **Autor:** Jaime Alexander Roa Escobar (Ingeniero Mecatrónico)  
-> **Publicación Oficial (Zenodo):** [https://doi.org](https://doi.org)
+> **Publicación Oficial (Zenodo):** `https://doi.org`
 
 ---
 
