@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si utilizas este modelo o código en tu investigación, por favor cítalo usando los metadatos a continuación."
+title: "Modelado Teórico-Computacional y Formal del Juego de Estrategia Digital: Análisis de Complejidad, Lógica Booleana y Teoría de Juegos en Captain Tsubasa: Dream Team"
+authors:
+  - family-names: "Roa Escobar"
+    given-names: "Jaime Alexander"
+date-released: 2026-11-09
+version: "1.0.0"
+doi: "10.5281/zenodo.24092046"
+url: "https://doi.org"
+license: "CC-BY-4.0"
+keywords:
+  - "Computational Complexity"
+  - "NP-hard"
+  - "Game Theory"
+  - "Nash Equilibrium"
+  - "Boolean Algebra"
+  - "Markov Chains"
+  - "Captain Tsubasa Dream Team"
