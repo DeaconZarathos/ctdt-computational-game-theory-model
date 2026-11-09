@@ -1,8 +1,9 @@
 # Modelado Teórico-Computacional y Formal de *Captain Tsubasa: Dream Team*
 
 [![DOI](https://shields.io)](https://doi.org)
-[![License: CC BY 4.0](https://shields.io)](https://creativecommons.org)
-[![Python 3.8+](https://shields.io)](https://python.org)
+[![License](https://shields.io)](https://creativecommons.org)
+[![Python](https://shields.io)](https://python.org)
+
 
 Este repositorio contiene el código de simulación numérica y los modelos matemáticos complementarios del artículo:
 
